@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .search-input {
+    margin: 20px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .beer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .beer-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+    max-width: 200px;
+    text-align: center;
+  }
+  
+  .beer-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
